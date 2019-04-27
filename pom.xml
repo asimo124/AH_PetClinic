@@ -20,7 +20,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <start-class>info.alexhawley.ahpetclinic.AhPetClinicApplication</start-class>
+        <start-class>info.alexhawley.petclinic.PetClinicApplication</start-class>
     </properties>
 
     <dependencies>
