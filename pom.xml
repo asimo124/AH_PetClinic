@@ -41,7 +41,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:asimo124/JavaSpring1.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:asimo124/AH_PetClinic.git</developerConnection>
         <tag>head</tag>
     </scm>
 
